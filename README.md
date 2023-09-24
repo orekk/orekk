@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Waterloo Aerial Robotics design teams as a hardware and firmware member.
+- 🔭 I’m currently working on Orbital as a and firmware member.
 - 🌱 I’m currently improving my PCB layout and Python skills
-- 💬 Ask me about life as an international engineering student or why I think maladaptive daymdreaming is linked to the metaverse
+- 💬 Ask me about life as an international engineering student
 
 <!--
 **orekk/orekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
